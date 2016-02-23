@@ -1,0 +1,22 @@
+{
+  "name": "helper-js",
+  "description": "General and common helper functions for javascript to help in fast development",
+  "main": "index.js",
+  "authors": [
+    "Mustafa N Dwaikat"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "helper"
+  ],
+  "homepage": "https://github.com/mirageisme/helperJS",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
